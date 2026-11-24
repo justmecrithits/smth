@@ -1,0 +1,8 @@
+{
+  "name": "HYPER CLASH",
+  "description": "Fast-paced 3D arena shooter with custom weapons, detailed symmetrical arenas, Target Grid secret boss, Laser Arena, enhanced character animations, and upper-left match chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
